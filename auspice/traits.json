@@ -1,0 +1,867 @@
+{
+  "generated_by": {
+    "program": "augur",
+    "version": "13.0.0"
+  },
+  "models": {
+    "location": {
+      "alphabet": [
+        "other village",
+        "village a",
+        "village b",
+        "village c",
+        "village d",
+        "village e",
+        "?"
+      ],
+      "equilibrium_probabilities": [
+        0.16675338992907993,
+        0.15995138407713935,
+        0.08669042280998505,
+        0.1663829361230514,
+        0.12591235624911706,
+        0.1535246457484977,
+        0.14078486506312946
+      ],
+      "rate": 170.12642652218568,
+      "transition_matrix": [
+        [
+          0.0,
+          0.6571968454584148,
+          1.416532950372278,
+          1.29720801729987,
+          1.347234617606083,
+          0.604364526676053,
+          0.5911539760538572
+        ],
+        [
+          0.6571968454584148,
+          0.0,
+          2.9450932723581547,
+          1.07071161479935,
+          1.354219619877657,
+          0.858600075702948,
+          0.6328491545233667
+        ],
+        [
+          1.416532950372278,
+          2.9450932723581547,
+          0.0,
+          3.0006576760850487,
+          1.7533034993654597,
+          1.3263971820192155,
+          1.1242287714470753
+        ],
+        [
+          1.29720801729987,
+          1.07071161479935,
+          3.0006576760850487,
+          0.0,
+          1.483556168145367,
+          1.6795642214026818,
+          0.6127373038552462
+        ],
+        [
+          1.347234617606083,
+          1.354219619877657,
+          1.7533034993654597,
+          1.483556168145367,
+          0.0,
+          1.564119397018886,
+          0.6379178031345387
+        ],
+        [
+          0.604364526676053,
+          0.858600075702948,
+          1.3263971820192155,
+          1.6795642214026818,
+          1.564119397018886,
+          0.0,
+          0.5899937109298132
+        ],
+        [
+          0.5911539760538572,
+          0.6328491545233667,
+          1.1242287714470753,
+          0.6127373038552462,
+          0.6379178031345387,
+          0.5899937109298132,
+          0.0
+        ]
+      ]
+    }
+  },
+  "nodes": {
+    "G22565": {
+      "location": "village b"
+    },
+    "G22566": {
+      "location": "village b"
+    },
+    "G22567": {
+      "location": "other village"
+    },
+    "G22568": {
+      "location": "village b"
+    },
+    "G22569": {
+      "location": "village a"
+    },
+    "G22571": {
+      "location": "village c"
+    },
+    "G22572": {
+      "location": "village a"
+    },
+    "G22573": {
+      "location": "other village"
+    },
+    "G22574": {
+      "location": "village b"
+    },
+    "G22575": {
+      "location": "village a"
+    },
+    "G22576": {
+      "location": "village a"
+    },
+    "G22577": {
+      "location": "village b"
+    },
+    "G22578": {
+      "location": "village b"
+    },
+    "G22579": {
+      "location": "village b"
+    },
+    "G22580": {
+      "location": "village c"
+    },
+    "G22581": {
+      "location": "village c"
+    },
+    "G22582": {
+      "location": "village a"
+    },
+    "G22583": {
+      "location": "village a"
+    },
+    "G22584": {
+      "location": "village b"
+    },
+    "G22585": {
+      "location": "village c"
+    },
+    "G22586": {
+      "location": "other village"
+    },
+    "G22587": {
+      "location": "village b"
+    },
+    "G22589": {
+      "location": "village b"
+    },
+    "G22590": {
+      "location": "village b"
+    },
+    "G22591": {
+      "location": "village b"
+    },
+    "G22592": {
+      "location": "village b"
+    },
+    "G22593": {
+      "location": "village a"
+    },
+    "G22595": {
+      "location": "village a"
+    },
+    "G22596": {
+      "location": "village b"
+    },
+    "G22597": {
+      "location": "village c"
+    },
+    "G22598": {
+      "location": "village b"
+    },
+    "G22599": {
+      "location": "village c"
+    },
+    "G22600": {
+      "location": "village e"
+    },
+    "G22601": {
+      "location": "village b"
+    },
+    "G22602": {
+      "location": "village c"
+    },
+    "G22603": {
+      "location": "village b"
+    },
+    "G22604": {
+      "location": "village b"
+    },
+    "G22605": {
+      "location": "village a"
+    },
+    "G22606": {
+      "location": "village d"
+    },
+    "G22607": {
+      "location": "village a"
+    },
+    "G22608": {
+      "location": "village c"
+    },
+    "G22609": {
+      "location": "village b"
+    },
+    "G22610": {
+      "location": "village b"
+    },
+    "G22611": {
+      "location": "village b"
+    },
+    "G22612": {
+      "location": "village a"
+    },
+    "G22613": {
+      "location": "village b"
+    },
+    "G22614": {
+      "location": "village e"
+    },
+    "G22615": {
+      "location": "village b"
+    },
+    "G22616": {
+      "location": "village a"
+    },
+    "G22617": {
+      "location": "village a"
+    },
+    "G22618": {
+      "location": "village a"
+    },
+    "G22619": {
+      "location": "village c"
+    },
+    "G22620": {
+      "location": "village a"
+    },
+    "G22621": {
+      "location": "village b"
+    },
+    "G22622": {
+      "location": "village a"
+    },
+    "G22623": {
+      "location": "village a"
+    },
+    "G22624": {
+      "location": "village b"
+    },
+    "G22625": {
+      "location": "village e"
+    },
+    "G22626": {
+      "location": "village a"
+    },
+    "G22627": {
+      "location": "village a"
+    },
+    "G22628": {
+      "location": "village c"
+    },
+    "G22629": {
+      "location": "village a"
+    },
+    "G22631": {
+      "location": "village a"
+    },
+    "G22632": {
+      "location": "village c"
+    },
+    "G22633": {
+      "location": "village c"
+    },
+    "G22634": {
+      "location": "village c"
+    },
+    "G22635": {
+      "location": "village c"
+    },
+    "G22636": {
+      "location": "village c"
+    },
+    "G22637": {
+      "location": "village a"
+    },
+    "G22638": {
+      "location": "village a"
+    },
+    "G22639": {
+      "location": "village b"
+    },
+    "G22640": {
+      "location": "other village"
+    },
+    "G22642": {
+      "location": "village a"
+    },
+    "G22643": {
+      "location": "village a"
+    },
+    "G22644": {
+      "location": "village c"
+    },
+    "G22645": {
+      "location": "village a"
+    },
+    "G22648": {
+      "location": "village b"
+    },
+    "G22649": {
+      "location": "village a"
+    },
+    "G22650": {
+      "location": "village d"
+    },
+    "G22651": {
+      "location": "village b"
+    },
+    "G22652": {
+      "location": "village a"
+    },
+    "G22653": {
+      "location": "village c"
+    },
+    "G22654": {
+      "location": "village a"
+    },
+    "G22655": {
+      "location": "village d"
+    },
+    "G22656": {
+      "location": "village c"
+    },
+    "G22657": {
+      "location": "village c"
+    },
+    "G22658": {
+      "location": "village c"
+    },
+    "G22659": {
+      "location": "village a"
+    },
+    "G22660": {
+      "location": "village d"
+    },
+    "G22662": {
+      "location": "village b"
+    },
+    "G22663": {
+      "location": "village c"
+    },
+    "G22664": {
+      "location": "village a"
+    },
+    "G22665": {
+      "location": "village b"
+    },
+    "G22666": {
+      "location": "village b"
+    },
+    "G22667": {
+      "location": "village b"
+    },
+    "G22668": {
+      "location": "village b"
+    },
+    "G22669": {
+      "location": "village d"
+    },
+    "G22670": {
+      "location": "village d"
+    },
+    "G22671": {
+      "location": "village d"
+    },
+    "G22672": {
+      "location": "village d"
+    },
+    "G22673": {
+      "location": "village d"
+    },
+    "G22674": {
+      "location": "village d"
+    },
+    "G22675": {
+      "location": "village c"
+    },
+    "G22676": {
+      "location": "village e"
+    },
+    "G22677": {
+      "location": "village e"
+    },
+    "G22678": {
+      "location": "village d"
+    },
+    "G22679": {
+      "location": "village d"
+    },
+    "G22680": {
+      "location": "village d"
+    },
+    "G22681": {
+      "location": "village d"
+    },
+    "G22682": {
+      "location": "village d"
+    },
+    "G22683": {
+      "location": "village d"
+    },
+    "G22684": {
+      "location": "village d"
+    },
+    "G22685": {
+      "location": "village d"
+    },
+    "G22686": {
+      "location": "village d"
+    },
+    "G22687": {
+      "location": "village d"
+    },
+    "G22688": {
+      "location": "village c"
+    },
+    "G22689": {
+      "location": "other village"
+    },
+    "G22690": {
+      "location": "village c"
+    },
+    "G22691": {
+      "location": "village b"
+    },
+    "G22692": {
+      "location": "village b"
+    },
+    "G22693": {
+      "location": "village c"
+    },
+    "G22695": {
+      "location": "village d"
+    },
+    "G22697": {
+      "location": "village c"
+    },
+    "G22698": {
+      "location": "village e"
+    },
+    "G22699": {
+      "location": "village d"
+    },
+    "G22700": {
+      "location": "village d"
+    },
+    "G22701": {
+      "location": "village d"
+    },
+    "G22702": {
+      "location": "village d"
+    },
+    "G22703": {
+      "location": "village c"
+    },
+    "G22704": {
+      "location": "village d"
+    },
+    "G22705": {
+      "location": "village c"
+    },
+    "G22706": {
+      "location": "village d"
+    },
+    "G22707": {
+      "location": "village c"
+    },
+    "G22708": {
+      "location": "village c"
+    },
+    "G22709": {
+      "location": "village c"
+    },
+    "G22710": {
+      "location": "village a"
+    },
+    "G22711": {
+      "location": "village a"
+    },
+    "G22712": {
+      "location": "village a"
+    },
+    "G22713": {
+      "location": "village a"
+    },
+    "G22717": {
+      "location": "village a"
+    },
+    "G22722": {
+      "location": "village a"
+    },
+    "G22723": {
+      "location": "village a"
+    },
+    "G22724": {
+      "location": "village d"
+    },
+    "G22725": {
+      "location": "village a"
+    },
+    "G22726": {
+      "location": "village a"
+    },
+    "G22727": {
+      "location": "village a"
+    },
+    "G22730": {
+      "location": "village a"
+    },
+    "G22732": {
+      "location": "village b"
+    },
+    "G22733": {
+      "location": "village a"
+    },
+    "NODE_0000000": {
+      "location": "village b"
+    },
+    "NODE_0000001": {
+      "location": "village c"
+    },
+    "NODE_0000009": {
+      "location": "village c"
+    },
+    "NODE_0000012": {
+      "location": "village c"
+    },
+    "NODE_0000016": {
+      "location": "village c"
+    },
+    "NODE_0000019": {
+      "location": "village c"
+    },
+    "NODE_0000020": {
+      "location": "village b"
+    },
+    "NODE_0000021": {
+      "location": "village b"
+    },
+    "NODE_0000022": {
+      "location": "village a"
+    },
+    "NODE_0000031": {
+      "location": "village d"
+    },
+    "NODE_0000032": {
+      "location": "village d"
+    },
+    "NODE_0000036": {
+      "location": "village d"
+    },
+    "NODE_0000037": {
+      "location": "village b"
+    },
+    "NODE_0000038": {
+      "location": "village d"
+    },
+    "NODE_0000042": {
+      "location": "village b"
+    },
+    "NODE_0000043": {
+      "location": "village b"
+    },
+    "NODE_0000044": {
+      "location": "village d"
+    },
+    "NODE_0000047": {
+      "location": "village e"
+    },
+    "NODE_0000048": {
+      "location": "village e"
+    },
+    "NODE_0000049": {
+      "location": "village c"
+    },
+    "NODE_0000050": {
+      "location": "village c"
+    },
+    "NODE_0000051": {
+      "location": "village c"
+    },
+    "NODE_0000052": {
+      "location": "village c"
+    },
+    "NODE_0000058": {
+      "location": "village d"
+    },
+    "NODE_0000059": {
+      "location": "village d"
+    },
+    "NODE_0000061": {
+      "location": "village b"
+    },
+    "NODE_0000062": {
+      "location": "village c"
+    },
+    "NODE_0000063": {
+      "location": "village c"
+    },
+    "NODE_0000064": {
+      "location": "village c"
+    },
+    "NODE_0000065": {
+      "location": "village c"
+    },
+    "NODE_0000066": {
+      "location": "village c"
+    },
+    "NODE_0000067": {
+      "location": "village c"
+    },
+    "NODE_0000068": {
+      "location": "village b"
+    },
+    "NODE_0000069": {
+      "location": "village c"
+    },
+    "NODE_0000070": {
+      "location": "village c"
+    },
+    "NODE_0000071": {
+      "location": "village b"
+    },
+    "NODE_0000072": {
+      "location": "village b"
+    },
+    "NODE_0000073": {
+      "location": "village c"
+    },
+    "NODE_0000074": {
+      "location": "village a"
+    },
+    "NODE_0000075": {
+      "location": "village a"
+    },
+    "NODE_0000076": {
+      "location": "village a"
+    },
+    "NODE_0000077": {
+      "location": "village a"
+    },
+    "NODE_0000078": {
+      "location": "village a"
+    },
+    "NODE_0000079": {
+      "location": "village a"
+    },
+    "NODE_0000080": {
+      "location": "village a"
+    },
+    "NODE_0000081": {
+      "location": "village a"
+    },
+    "NODE_0000082": {
+      "location": "village a"
+    },
+    "NODE_0000083": {
+      "location": "village c"
+    },
+    "NODE_0000084": {
+      "location": "village c"
+    },
+    "NODE_0000085": {
+      "location": "village c"
+    },
+    "NODE_0000086": {
+      "location": "village b"
+    },
+    "NODE_0000087": {
+      "location": "village a"
+    },
+    "NODE_0000088": {
+      "location": "village a"
+    },
+    "NODE_0000089": {
+      "location": "village a"
+    },
+    "NODE_0000090": {
+      "location": "village a"
+    },
+    "NODE_0000091": {
+      "location": "village c"
+    },
+    "NODE_0000092": {
+      "location": "village c"
+    },
+    "NODE_0000093": {
+      "location": "village c"
+    },
+    "NODE_0000094": {
+      "location": "village c"
+    },
+    "NODE_0000095": {
+      "location": "village a"
+    },
+    "NODE_0000096": {
+      "location": "village a"
+    },
+    "NODE_0000097": {
+      "location": "village a"
+    },
+    "NODE_0000098": {
+      "location": "village b"
+    },
+    "NODE_0000099": {
+      "location": "village d"
+    },
+    "NODE_0000100": {
+      "location": "village d"
+    },
+    "NODE_0000101": {
+      "location": "village d"
+    },
+    "NODE_0000102": {
+      "location": "village d"
+    },
+    "NODE_0000103": {
+      "location": "village b"
+    },
+    "NODE_0000104": {
+      "location": "village b"
+    },
+    "NODE_0000105": {
+      "location": "village b"
+    },
+    "NODE_0000106": {
+      "location": "village b"
+    },
+    "NODE_0000107": {
+      "location": "village d"
+    },
+    "NODE_0000108": {
+      "location": "village d"
+    },
+    "NODE_0000109": {
+      "location": "village d"
+    },
+    "NODE_0000110": {
+      "location": "village b"
+    },
+    "NODE_0000111": {
+      "location": "village b"
+    },
+    "NODE_0000112": {
+      "location": "village b"
+    },
+    "NODE_0000113": {
+      "location": "village b"
+    },
+    "NODE_0000114": {
+      "location": "village d"
+    },
+    "NODE_0000115": {
+      "location": "village d"
+    },
+    "NODE_0000116": {
+      "location": "village d"
+    },
+    "NODE_0000117": {
+      "location": "village b"
+    },
+    "NODE_0000118": {
+      "location": "village b"
+    },
+    "NODE_0000119": {
+      "location": "village b"
+    },
+    "NODE_0000120": {
+      "location": "village e"
+    },
+    "NODE_0000121": {
+      "location": "village b"
+    },
+    "NODE_0000122": {
+      "location": "village e"
+    },
+    "NODE_0000123": {
+      "location": "village b"
+    },
+    "NODE_0000124": {
+      "location": "village c"
+    },
+    "NODE_0000125": {
+      "location": "village b"
+    },
+    "NODE_0000126": {
+      "location": "village b"
+    },
+    "NODE_0000127": {
+      "location": "village c"
+    },
+    "NODE_0000128": {
+      "location": "village b"
+    },
+    "NODE_0000129": {
+      "location": "village b"
+    },
+    "NODE_0000130": {
+      "location": "village b"
+    },
+    "NODE_0000132": {
+      "location": "village d"
+    },
+    "NODE_0000136": {
+      "location": "village b"
+    },
+    "NODE_0000137": {
+      "location": "village b"
+    },
+    "NODE_0000138": {
+      "location": "village d"
+    },
+    "NODE_0000139": {
+      "location": "village b"
+    },
+    "NODE_0000143": {
+      "location": "other village"
+    },
+    "NODE_0000144": {
+      "location": "village d"
+    },
+    "NODE_0000145": {
+      "location": "village d"
+    },
+    "NODE_0000146": {
+      "location": "village a"
+    },
+    "NODE_0000148": {
+      "location": "village b"
+    },
+    "NODE_0000149": {
+      "location": "village b"
+    },
+    "NODE_0000150": {
+      "location": "village b"
+    },
+    "NODE_0000151": {
+      "location": "village b"
+    }
+  }
+}
